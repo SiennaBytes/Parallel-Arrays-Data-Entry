@@ -1,6 +1,5 @@
 /*
  * Program: U3A4A1 Parallel Arrays
- * Date   : October 2020
  * Purpose: A program asks the user to enter the number of dance teams and their wins
  *          /losses. The program will then ask the user to selcect the orginal data,
  *          the winning percenatge or to exit the program.
